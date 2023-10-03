@@ -1,0 +1,1 @@
+alter table usuarios add username varchar(30) not null;
